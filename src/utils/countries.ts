@@ -1,0 +1,25 @@
+// Random country names
+export default [
+    'Afghanistan',
+    'Barbuda',
+    'Chile',
+    'Denmark',
+    'Egpyt',
+    'France',
+    'Germany',
+    'Holand',
+    'India',
+    'Japan',
+    'Kenya',
+    'London',
+    'Morroco',
+    'Nepal',
+    'Omaan',
+    'Paris',
+    'Qresia',
+    'Russia',
+    'Suddan',
+    'Turkey',
+    'Ukraine',
+  ];
+  
